@@ -39,9 +39,11 @@ cd PuzzleGame.Server
 
 # Projeyi derleyip çalıştırın
 dotnet watch run
+```
 
-### 2. Frontend'i Başlatma (.NET)
+### 2. Backend'i Başlatma (.NET)
 
+```bash
 cd puzzle-game
 
 # Gerekli kütüphaneleri yükleyin
@@ -52,3 +54,4 @@ npm install
 
 # Geliştirme sunucusunu başlatın
 npm run dev
+```
