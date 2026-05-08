@@ -1,0 +1,6 @@
+@PuzzleGame.Server_HostAddress = http://localhost:5135
+
+GET {{PuzzleGame.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
